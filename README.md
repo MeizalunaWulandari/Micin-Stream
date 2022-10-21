@@ -6,4 +6,13 @@ Penyelesaian : 20 Oktober 2022
 
 Penjelasan singkat :
 
-Aplikasi ini bisa upload video dengan API StreamBB
+Aplikasi ini bisa upload video dengan API StreamBB.
+
+Fitur aplikasi
+- Login & daftar
+- Foldeer
+- Penghitung Penonton
+- Antisipasi refresh bertambah jumlah penonton
+- Folder
+
+
