@@ -1,7 +1,7 @@
-Tugas Gabungan Pemerograman Dasar & Kewirausahaan
+Tugas Gabungan Pemerograman Dasar & Kewirausahaan <br>
 
-Nama : Meizaluna Wulandari
-Kelas : XI TKJ 2
+Nama : Meizaluna Wulandari<br>
+Kelas : XI TKJ 2<br>
 Penyelesaian : 20 Oktober 2022
 
 Penjelasan singkat :
